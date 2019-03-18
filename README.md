@@ -1,1 +1,1 @@
-A Complete (but SIMPLE) library to use SNMP in Golang
+A Complete (but SIMPLE) super-extensible SNMP library in Golang

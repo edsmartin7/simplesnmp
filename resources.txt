@@ -1,7 +1,0 @@
-
-Resources:
-https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol
-http://www.rane.com/note161.html
-
-Similar libraries:
-https://github.com/soniah/gosnmp
